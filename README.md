@@ -31,7 +31,7 @@ I'm a Computer Engineering student at KJSCE with a passion for Full Stack Develo
 
 ## 🏆 Achievements
 
-- 🥇 **Codeforces** - Max Rating: 1460 | [Profile](https://codeforces.com/profile/your-username)
+
 - 🎯 **LeetCode Enthusiast** - Solved 150+ problems applying optimized algorithms | [Profile](https://leetcode.com/your-username)
 - ☁️ **Google Cloud Cybersecurity Certificate** (2025) - Threat detection & cloud security fundamentals
 - 🤖 **Oracle Certified Generative AI Professional** (2025) - AI model deployment on OCI
@@ -53,7 +53,7 @@ I'm a Computer Engineering student at KJSCE with a passion for Full Stack Develo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ram-nitin-thokane)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RamThokane)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ram.thokane@somaiya.edu)
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/your-username)
+
 
 ---
 
