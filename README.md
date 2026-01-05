@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Computer Engineering student at K.J Somaiya College of Engineering with a passion for Full Stack Development, AI/ML Integration, and Competitive Programming. Currently maintaining an 8.9 CGPA and actively building projects that solve real-world problems. I'm a former Web Development Intern at Suvidha Foundation and love exploring new technologies in cloud computing and AI.
+I'm a Computer Engineering student at KJSCE with a passion for Full Stack Development, AI/ML Integration, and Competitive Programming. Currently maintaining an 9.15 CGPA and actively building projects that solve real-world problems. I love exploring new technologies in cloud computing and AI.
 
 ## 🚀 Tech Stack
 
@@ -31,7 +31,7 @@ I'm a Computer Engineering student at K.J Somaiya College of Engineering with a 
 
 ## 🏆 Achievements
 
-- 🥇 **Codeforces Specialist** - Max Rating: 1460 | [Profile](https://codeforces.com/profile/your-username)
+- 🥇 **Codeforces** - Max Rating: 1460 | [Profile](https://codeforces.com/profile/your-username)
 - 🎯 **LeetCode Enthusiast** - Solved 150+ problems applying optimized algorithms | [Profile](https://leetcode.com/your-username)
 - ☁️ **Google Cloud Cybersecurity Certificate** (2025) - Threat detection & cloud security fundamentals
 - 🤖 **Oracle Certified Generative AI Professional** (2025) - AI model deployment on OCI
@@ -48,26 +48,9 @@ I'm a Computer Engineering student at K.J Somaiya College of Engineering with a 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ram.thokane@somaiya.edu)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/your-username)
 
----
 
-## 📌 Pinned Projects
 
-### [QuickGPT](https://github.com/RamThokane/QuickGPT)
-Full-stack AI chat platform with Gemini API integration
-- 🛠️ **Tech:** MERN Stack, Gemini API, Stripe, JWT, TailwindCSS
-- ✨ AI-generated text & images with credit-based billing system
 
-### [EV Motor](https://github.com/RamThokane/EV-Motor)
-E-commerce platform for electric vehicles
-- 🛠️ **Tech:** PHP, HTML, CSS, JavaScript, SQL
-- ✨ Dynamic listings, user authentication & order management
-
-### [Portfolio Website](https://github.com/RamThokane/Portfolio)
-Showcase for my skills and projects
-- 🛠️ **Tech:** React.js, TailwindCSS
-- ✨ Modern UI/UX with responsive design
-
----
 
 ## 📈 GitHub Stats
 
@@ -77,7 +60,7 @@ Showcase for my skills and projects
 
 ---
 
-💼 **Currently:** B.Tech in Computer Engineering (CGPA: 8.9) | K.J Somaiya College of Engineering  
+💼 **Currently:** B.Tech in Computer Engineering (CGPA:9.15) | K.J Somaiya College of Engineering  
 🌱 **Learning:** Cloud Architecture, Advanced AI/ML, System Design  
 ⚡ **Fun fact:** Competitive programming enthusiast who loves solving algorithmic challenges!
 
