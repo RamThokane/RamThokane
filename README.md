@@ -37,7 +37,21 @@ I'm a Computer Engineering student at KJSCE with a passion for Full Stack Develo
 - 🤖 **Oracle Certified Generative AI Professional** (2025) - AI model deployment on OCI
 - 🎨 **UI/UX Design Certification** (CalArts) - User research, wireframing & prototyping
 
+## 📊 GitHub Contribution Snake
 
+![Snake animation](https://raw.githubusercontent.com/RamThokane/RamThokane/output/github-contribution-grid-snake.svg)
+
+## 📈 GitHub Stats
+
+<div align="center">
+  
+![Ram's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamThokane&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamThokane&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RamThokane&theme=tokyonight&hide_border=true)
+
+</div>
 
 ## 🔗 Connect
 
@@ -46,13 +60,7 @@ I'm a Computer Engineering student at KJSCE with a passion for Full Stack Develo
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ram.thokane@somaiya.edu)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/your-username)
 
-
-
-
-
-
-
-
+---
 
 💼 **Currently:** B.Tech in Computer Engineering (CGPA:9.15) | K.J Somaiya College of Engineering  
 🌱 **Learning:** Cloud Architecture, Advanced AI/ML, System Design  
