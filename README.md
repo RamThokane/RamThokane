@@ -1,113 +1,84 @@
-<h1 align="center">Hi, I'm Ram Thokane 👋</h1>
+# Hi there, I'm Ram Nitin Thokane! 👋
 
-<p align="center">
-  Computer Engineering Student • Full Stack Developer • Problem Solver
-</p>
+## About Me
 
----
+I'm a Computer Engineering student at K.J Somaiya College of Engineering with a passion for Full Stack Development, AI/ML Integration, and Competitive Programming. Currently maintaining an 8.9 CGPA and actively building projects that solve real-world problems. I'm a former Web Development Intern at Suvidha Foundation and love exploring new technologies in cloud computing and AI.
 
-## 👋 About Me
-I’m a **Computer Engineering undergraduate** at **K.J. Somaiya College of Engineering, Mumbai**, with a strong academic foundation and a deep interest in building **real-world software products**.
+## 🚀 Tech Stack
 
-I enjoy working across the full stack — from designing clean, responsive user interfaces to implementing secure, scalable backend systems. I’m particularly motivated by projects where technology directly improves user experience and solves practical problems.
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-## 💡 What I Work On
-- Designing and developing **full-stack web applications**
-- Building **secure backend systems** with authentication and payment workflows
-- Creating **clean, responsive frontends** with modern UI frameworks
-- Applying **data structures and algorithms** to write efficient, reliable code
-- Collaborating through Git and GitHub in team-based projects
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
----
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-## 🛠️ Languages & Technologies
+## 🏆 Achievements
 
-### Languages
-<p>
-  <a href="https://www.oracle.com/java/" target="_blank">
-    <img src="https://img.shields.io/badge/Java-orange?logo=java&logoColor=white" />
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-yellow?logo=python&logoColor=white" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=white" />
-  </a>
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
-  </a>
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/SQL-blue?logo=mysql&logoColor=white" />
-  </a>
-</p>
+- 🥇 **Codeforces Specialist** - Max Rating: 1460 | [Profile](https://codeforces.com/profile/your-username)
+- 🎯 **LeetCode Enthusiast** - Solved 150+ problems applying optimized algorithms | [Profile](https://leetcode.com/your-username)
+- ☁️ **Google Cloud Cybersecurity Certificate** (2025) - Threat detection & cloud security fundamentals
+- 🤖 **Oracle Certified Generative AI Professional** (2025) - AI model deployment on OCI
+- 🎨 **UI/UX Design Certification** (CalArts) - User research, wireframing & prototyping
 
-### Frameworks & Libraries
-<p>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Express-black?logo=express&logoColor=white" />
-  </a>
-</p>
+## 📊 GitHub Contribution Snake
 
-### Databases
-<p>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MongoDB-darkgreen?logo=mongodb&logoColor=white" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Firebase-orange?logo=firebase&logoColor=white" />
-  </a>
-</p>
+![Snake animation](https://raw.githubusercontent.com/RamThokane/RamThokane/output/github-contribution-grid-snake.svg)
 
-### Cloud & Tools
-<p>
-  <a href="https://cloud.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/GCP-white?logo=googlecloud&logoColor=black" />
-  </a>
-  <a href="https://www.oracle.com/cloud/" target="_blank">
-    <img src="https://img.shields.io/badge/OCI-red?logo=oracle&logoColor=white" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Git-black?logo=git&logoColor=white" />
-  </a>
-</p>
+## 🔗 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ram-nitin-thokane)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RamThokane)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ram.thokane@somaiya.edu)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/your-username)
 
 ---
 
-## 📈 Growth & Learning
-I actively practice **data structures and algorithms**, with over **150 problems solved**, focusing on writing efficient, maintainable code. I’m constantly exploring better backend design, cleaner frontend patterns, and modern deployment workflows.
+## 📌 Pinned Projects
+
+### [QuickGPT](https://github.com/RamThokane/QuickGPT)
+Full-stack AI chat platform with Gemini API integration
+- 🛠️ **Tech:** MERN Stack, Gemini API, Stripe, JWT, TailwindCSS
+- ✨ AI-generated text & images with credit-based billing system
+
+### [EV Motor](https://github.com/RamThokane/EV-Motor)
+E-commerce platform for electric vehicles
+- 🛠️ **Tech:** PHP, HTML, CSS, JavaScript, SQL
+- ✨ Dynamic listings, user authentication & order management
+
+### [Portfolio Website](https://github.com/RamThokane/Portfolio)
+Showcase for my skills and projects
+- 🛠️ **Tech:** React.js, TailwindCSS
+- ✨ Modern UI/UX with responsive design
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RamThokane&show_icons=true&theme=dark" />
-</p>
+## 📈 GitHub Stats
+
+![Ram's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamThokane&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamThokane&layout=compact&theme=tokyonight)
 
 ---
 
-## 🤝 Let’s Connect
-<p align="center">
-  <a href="https://linkedin.com/in/ram-nitin-thokane">
-    <img src="https://img.shields.io/badge/LinkedIn-blue" />
-  </a>
-  <a href="mailto:ram.thokane@somaiya.edu">
-    <img src="https://img.shields.io/badge/Email-red" />
-  </a>
-</p>
+💼 **Currently:** B.Tech in Computer Engineering (CGPA: 8.9) | K.J Somaiya College of Engineering  
+🌱 **Learning:** Cloud Architecture, Advanced AI/ML, System Design  
+⚡ **Fun fact:** Competitive programming enthusiast who loves solving algorithmic challenges!
+
+![Profile Views](https://komarev.com/ghpvc/?username=RamThokane&color=blueviolet&style=for-the-badge)
