@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Computer Engineering student at KJSCE with a passion for Full Stack Development, AI/ML Integration, and Competitive Programming. Currently maintaining an 9.15 CGPA and actively building projects that solve real-world problems. I love exploring new technologies in cloud computing and AI.
+I'm a Computer Engineering student at KJSCE with a passion for Full Stack Development, AI/ML Integration, and Competitive Programming. Actively building projects that solve real-world problems. I love exploring new technologies in cloud computing and AI.
 
 ## 🚀 Tech Stack
 
@@ -35,7 +35,7 @@ I'm a Computer Engineering student at KJSCE with a passion for Full Stack Develo
 - 🎯 **LeetCode Enthusiast** - Solved 150+ problems applying optimized algorithms | [Profile](https://leetcode.com/your-username)
 - ☁️ **Google Cloud Cybersecurity Certificate** (2025) - Threat detection & cloud security fundamentals
 - 🤖 **Oracle Certified Generative AI Professional** (2025) - AI model deployment on OCI
-- 🎨 **UI/UX Design Certification** (CalArts) - User research, wireframing & prototyping
+
 
 ## 📊 GitHub Contribution Snake
 
@@ -43,13 +43,11 @@ I'm a Computer Engineering student at KJSCE with a passion for Full Stack Develo
 
 ## 📈 GitHub Stats
 
+## 📊 GitHub Contribution Snake
+
 <div align="center">
   
-![Ram's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamThokane&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamThokane&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RamThokane&theme=tokyonight&hide_border=true)
+![Snake animation](https://raw.githubusercontent.com/RamThokane/RamThokane/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
