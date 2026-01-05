@@ -37,11 +37,8 @@ I'm a Computer Engineering student at KJSCE with a passion for Full Stack Develo
 - 🤖 **Oracle Certified Generative AI Professional** (2025) - AI model deployment on OCI
 
 
-## 📊 GitHub Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/RamThokane/RamThokane/output/github-contribution-grid-snake.svg)
 
-## 📈 GitHub Stats
 
 ## 📊 GitHub Contribution Snake
 
