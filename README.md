@@ -37,9 +37,7 @@ I'm a Computer Engineering student at KJSCE with a passion for Full Stack Develo
 - 🤖 **Oracle Certified Generative AI Professional** (2025) - AI model deployment on OCI
 - 🎨 **UI/UX Design Certification** (CalArts) - User research, wireframing & prototyping
 
-## 📊 GitHub Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/RamThokane/RamThokane/output/github-contribution-grid-snake.svg)
 
 ## 🔗 Connect
 
@@ -52,13 +50,9 @@ I'm a Computer Engineering student at KJSCE with a passion for Full Stack Develo
 
 
 
-## 📈 GitHub Stats
 
-![Ram's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamThokane&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamThokane&layout=compact&theme=tokyonight)
 
----
 
 💼 **Currently:** B.Tech in Computer Engineering (CGPA:9.15) | K.J Somaiya College of Engineering  
 🌱 **Learning:** Cloud Architecture, Advanced AI/ML, System Design  
