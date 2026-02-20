@@ -32,7 +32,7 @@ I'm a Computer Engineering student at KJSCE with a passion for Full Stack Develo
 ## 🏆 Achievements
 
 
-- 🎯 **LeetCode Enthusiast** - Solved 150+ problems applying optimized algorithms | [Profile](https://leetcode.com/your-username)
+- 🎯 **LeetCode Enthusiast** - Solved 250+ problems applying optimized algorithms | [Profile](https://leetcode.com/your-username)
 - ☁️ **Google Cloud Cybersecurity Certificate** (2025) - Threat detection & cloud security fundamentals
 - 🤖 **Oracle Certified Generative AI Professional** (2025) - AI model deployment on OCI
 
