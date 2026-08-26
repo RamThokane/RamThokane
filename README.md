@@ -1,4 +1,4 @@
-# Hi there, I'm Ram Nitin Thokane! 👋
+# Hi , I'm Ram Nitin Thokane
 
 ## About Me
 
