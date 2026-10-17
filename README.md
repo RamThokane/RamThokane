@@ -83,6 +83,22 @@ const ram = {
 
 ---
 
+## 📊 Contribution Breakdown
+
+<div align="center">
+
+<img width="95%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Contributions over time"/>
+
+<img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Commits, PRs and issues"/>
+<img height="180" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Commits by hour of day"/>
+
+<img height="180" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language"/>
+<img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Commits per language"/>
+
+</div>
+
+---
+
 ## 🐍 Watch the snake eat my contributions
 
 <div align="center">
