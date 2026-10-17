@@ -14,9 +14,17 @@ jobs:
     timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
-      - uses: jamesgeorge007/github-activity-readme@master
+      - name: Update activity section
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: "Update live activity feed"
+          USERNAME: ${{ github.repository_owner }}
           MAX_LINES: 6
+        run: python3 scripts/activity.py
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update live activity feed" || exit 0
+          git pull --rebase
+          git push
