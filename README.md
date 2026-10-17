@@ -56,21 +56,6 @@
 
 ---
 
-## ⚡ Live Activity Feed
-
-<sub>Auto-updated every few hours from my public GitHub events.</sub>
-
-<!--START_SECTION:activity-->
-1. 🌿 Created branch `main` in [RamThokane/PredictScale](https://github.com/RamThokane/PredictScale) <sub>· 1d ago</sub>
-2. 🔨 Pushed 1 commit to [RamThokane/DistractFree](https://github.com/RamThokane/DistractFree) <sub>· 2d ago</sub>
-3. 🌿 Created branch `main` in [RamThokane/serverless-document-analytics](https://github.com/RamThokane/serverless-document-analytics) <sub>· 2d ago</sub>
-4. 🔨 Pushed 1 commit to [Vaishnavi200458/infra-drift-sandbox](https://github.com/Vaishnavi200458/infra-drift-sandbox) <sub>· 2d ago</sub>
-5. 🔨 Pushed 1 commit to [RamThokane/Portfolio](https://github.com/RamThokane/Portfolio) <sub>· 14d ago</sub>
-6. 🌿 Created branch `main` in [RamThokane/lab5-app](https://github.com/RamThokane/lab5-app) <sub>· 24d ago</sub>
-<!--END_SECTION:activity-->
-
----
-
 ## 🐍 Watch the snake eat my contributions
 
 <div align="center">
