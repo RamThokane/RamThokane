@@ -1,8 +1,8 @@
-# Hi , I'm Ram Nitin Thokane
+# Hi , I'm Ram Thokane
 
 ## About Me
 
-I'm a Computer Engineering student at KJSCE with a passion for Full Stack Development, AI/ML Integration, and Competitive Programming. Actively building projects that solve real-world problems. I love exploring new technologies in cloud computing and AI.
+I'm a Computer Engineering student at KJSCE with a passion for Full Stack Development, AI/ML Integration, and Competitive Programming. Actively building projects that solve real world problems. I love exploring new technologies in cloud computing and AI.
 
 ## 🚀 Tech Stack
 
@@ -29,12 +29,6 @@ I'm a Computer Engineering student at KJSCE with a passion for Full Stack Develo
 ![GCP](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-## 🏆 Achievements
-
-
-- 🎯 **LeetCode Enthusiast** - Solved 250+ problems applying optimized algorithms | [Profile](https://leetcode.com/your-username)
-- ☁️ **Google Cloud Cybersecurity Certificate** (2025) - Threat detection & cloud security fundamentals
-- 🤖 **Oracle Certified Generative AI Professional** (2025) - AI model deployment on OCI
 
 
 
@@ -59,6 +53,6 @@ I'm a Computer Engineering student at KJSCE with a passion for Full Stack Develo
 
 💼 **Currently:** B.Tech in Computer Engineering (CGPA:9.15) | K.J Somaiya College of Engineering  
 🌱 **Learning:** Cloud Architecture, Advanced AI/ML, System Design  
-⚡ **Fun fact:** Competitive programming enthusiast who loves solving algorithmic challenges!
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RamThokane&color=blueviolet&style=for-the-badge)
