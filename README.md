@@ -18,19 +18,9 @@
 
 ---
 
-## `$ whoami`
-
-```js
-const ram = {
-  location:   "Mumbai, India 🇮🇳",
-  education:  "B.Tech Computer Engineering @ K.J. Somaiya College of Engineering (2023–27)",
-  cgpa:       9.15,
-  experience: ["Web Dev Intern @ Suvidha Foundation", "Web Dev Intern @ InLighnX Global"],
-  focus:      ["Full Stack (MERN)", "AI/ML integration", "Cloud & DevOps", "Competitive Programming"],
-  learning:   ["Cloud Architecture", "Advanced AI/ML", "System Design"],
-  funFact:    "I'd rather automate a task twice than do it manually three times.",
-};
-```
+<div align="center">
+  <img src="./assets/terminal.svg" alt="neofetch-style intro card for Ram Thokane" width="100%"/>
+</div>
 
 ---
 
@@ -57,45 +47,21 @@ const ram = {
 
 ---
 
-## 🚧 What I'm Building
-
-| Project | What it does | Stack |
-|---|---|---|
-| **[DistractFree](https://github.com/RamThokane)** | Focus & distraction-blocking web app with AI/ML-powered insights | MERN · ML |
-| **[VigilantWeb](https://github.com/PradnyaJadhav25/VigilantWeb)** | DevOps project with a live monitoring dashboard | Docker · CI/CD |
-| **[Smart City Citizen Platform](https://github.com/RamThokane)** | One portal for citizens to raise and track civic issues | Full Stack |
-| **[Portfolio](https://github.com/RamThokane/Portfolio)** | My personal site — projects, experience, contact | React · Tailwind |
-
----
-
-## 📈 GitHub in Numbers
+## 🏙️ My Commits, as a Skyline
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RamThokane&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamThokane&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" />
-
-<img src="https://streak-stats.demolab.com?user=RamThokane&theme=tokyonight&hide_border=true" />
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=RamThokane&theme=tokyo-night&hide_border=true&area=true" />
-
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D isometric contribution graph" width="100%"/>
+  <sub>Every tower is a day of code. Taller means busier. Rebuilt daily by a GitHub Action.</sub>
 </div>
 
 ---
 
-## 📊 Contribution Breakdown
+## ⚡ Live Activity Feed
 
-<div align="center">
+<sub>Auto-updated every few hours from my public GitHub events.</sub>
 
-<img width="95%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Contributions over time"/>
-
-<img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Commits, PRs and issues"/>
-<img height="180" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Commits by hour of day"/>
-
-<img height="180" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language"/>
-<img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Commits per language"/>
-
-</div>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
