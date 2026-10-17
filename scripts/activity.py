@@ -9,6 +9,8 @@ req = urllib.request.Request(
     headers={"Authorization": f"Bearer {os.environ['GITHUB_TOKEN']}", "Accept": "application/vnd.github+json"},
 )
 events = json.load(urllib.request.urlopen(req))
+events = [e for e in events if e["repo"]["name"].lower() != f"{USER}/{USER}".lower()]  # skip profile-repo noise
+events.sort(key=lambda e: e["created_at"], reverse=True)
 
 def repo(e):
     n = e["repo"]["name"]
